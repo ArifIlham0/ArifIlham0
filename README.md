@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Arif Ilham</h1>
 <h3 align="center">A passionate mobile developer</h3>
 
-- 🔭 I’m currently working on [Spirit Home Service](https://spirithomeservice.com/)
+<!--- 🔭 I’m currently working on [Freelancer at Fastwork](https://fastwork.id/en/user/arifilham0?source=web_marketplace_profile-menu_profile)-->
 
 - 🌱 I’m currently learning **SwiftUI**
 
