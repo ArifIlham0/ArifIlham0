@@ -3,7 +3,7 @@
 
 <!--- 🔭 I’m currently working on [Freelancer at Fastwork](https://fastwork.id/en/user/arifilham0?source=web_marketplace_profile-menu_profile)-->
 
-- 🌱 I’m currently learning **SwiftUI**
+- 🌱 I’m currently learning **Integarting AI into mobile applications**
 
 - 👯 I’m looking to collaborate on **iOS & Android project**
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **marifilham999@gmail.com**
 
-- 📄 Know about my experiences [My Experience](https://res.cloudinary.com/dvp105jny/image/upload/v1749228206/Portfolio_Ilham_nlgjse.pdf)
+- 📄 Know about my experiences [My Experience](https://res.cloudinary.com/dvp105jny/image/upload/v1760807613/Portfolio_Ilham_p14ji9.pdf)
 
 - ⚡ Fun fact **I like noodles**
 
