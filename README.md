@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Arif Ilham</h1>
 <h3 align="center">A passionate mobile ai engineer</h3>
 
-- 🌱 I’m currently learning **Integarting AI into mobile applications**
+- 🌱 I’m currently learning **AI Engineering**
 
 - 👯 I’m looking to collaborate on **iOS/Android and Web App project**
 
